@@ -102,16 +102,17 @@ The flow path in order to complete the order or task.
 ### Design
 After completion of everything, here are the screens.
 
-![Screenshot_20221027_125646](https://github.com/user-attachments/assets/161842af-9d63-4c4c-ab9e-9f97eaffb283)
-![Screenshot_20221027_010326](https://github.com/user-attachments/assets/119980b5-69ba-4e92-baa8-776dbaec01ff)
-![Screenshot_20221027_011214](https://github.com/user-attachments/assets/43870e6f-b30d-4da3-bb58-fc45b84669e9)
-![Screenshot_20221027_013531](https://github.com/user-attachments/assets/7de84c40-4167-4f39-9e1c-150251664a33)
-![Screenshot_20221027_014150](https://github.com/user-attachments/assets/c8a122c5-8e12-426b-9805-8a3b9a18216a)
-![Screenshot_20221027_014742](https://github.com/user-attachments/assets/f091f591-4169-4784-974c-e6e259ab9ce2)
-![Screenshot_20221027_015807](https://github.com/user-attachments/assets/f6b5c13c-a831-42aa-9d3f-28bc7a87890e)
-![Screenshot_20221027_021207](https://github.com/user-attachments/assets/97621e26-e9f6-4985-a5ce-7a46884a6bbc)
-![Screenshot_20221027_022048](https://github.com/user-attachments/assets/32f5d532-666b-4021-a2dc-4b3c46b256fe)
-![Screenshot_20221027_024416](https://github.com/user-attachments/assets/9b65ed05-78e5-4050-a473-d905aa8830f3)
-![Screenshot_20221027_025112](https://github.com/user-attachments/assets/1dd37d25-3ada-43c9-80b8-7e95b82a4a4d)
+<img src="https://github.com/user-attachments/assets/161842af-9d63-4c4c-ab9e-9f97eaffb283" width="200" />
+<img src="https://github.com/user-attachments/assets/119980b5-69ba-4e92-baa8-776dbaec01ff" width="200" />
+<img src="https://github.com/user-attachments/assets/43870e6f-b30d-4da3-bb58-fc45b84669e9)
+<img src="https://github.com/user-attachments/assets/7de84c40-4167-4f39-9e1c-150251664a33)
+<img src="https://github.com/user-attachments/assets/c8a122c5-8e12-426b-9805-8a3b9a18216a)
+<img src="https://github.com/user-attachments/assets/f091f591-4169-4784-974c-e6e259ab9ce2)
+<img src="https://github.com/user-attachments/assets/f6b5c13c-a831-42aa-9d3f-28bc7a87890e)
+<img src="https://github.com/user-attachments/assets/97621e26-e9f6-4985-a5ce-7a46884a6bbc)
+<img src="https://github.com/user-attachments/assets/32f5d532-666b-4021-a2dc-4b3c46b256fe)
+<img src="https://github.com/user-attachments/assets/9b65ed05-78e5-4050-a473-d905aa8830f3)
+<img src="https://github.com/user-attachments/assets/1dd37d25-3ada-43c9-80b8-7e95b82a4a4d)
 
 ### Testing (usability testing)
+After working on app screens, we give it to users to see it. We asked them if they understand the work of the application easily. And if this is all a user wants & needs or do we need to make some changes to fulfill our users expectations and make this application more efficient.

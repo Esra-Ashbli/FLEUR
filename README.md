@@ -56,12 +56,17 @@ Pain points:
 ### Define & ideate
 After discovering and searching steps we can imagine the user journey from beginning to end. Which starts from need of the product and ends at getting it. This path is mapped by user’s action, tasks wich he carry out to get the product wich leads to pain points.
 
+
 ▪ So this journey stats with user goale.
+
+
 ▪ Actions: search, explore, choosing a product, place order, payment, receiving the order.
 
 After knowing the user journey, we want to make it easier and we want to get the user expectations about our new app. So there is some improvement points we will ably it on our application.
 
 ▪ Create a mobile app where user can get everything at one platform.
+
+
 ▪ Making sure variety is there with customization option.
 ▪ Making ui more easy & simple.
 ▪ Offers can be included .

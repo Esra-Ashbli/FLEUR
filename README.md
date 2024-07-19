@@ -31,14 +31,15 @@ Survey questions:
 7. How often do you struggle to get flower of your choice?
 8. One thing you do not like about local flower market?
 Responses:
-<img src="https://github.com/user-attachments/assets/3b5d5dd1-c13a-42c2-afc1-500979c0765e" width="50" height="25" />
-![image](https://github.com/user-attachments/assets/53ed514d-46a1-4013-830b-25e0eb240705)
-![image](https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430)
-![image](https://github.com/user-attachments/assets/3fdff7ac-2210-4535-a543-8b4f4493d9d4)
-![image](https://github.com/user-attachments/assets/3d67b029-8528-491a-8791-b583badd7424)
-![image](https://github.com/user-attachments/assets/823af94a-9a58-4425-a1e0-9cabf4192928)
-![image](https://github.com/user-attachments/assets/67eb777d-95db-48e5-b5fb-98666e3df781)
-![image](https://github.com/user-attachments/assets/f4ae02e7-6863-4316-9457-4d98bd47568a)
+<img src="https://github.com/user-attachments/assets/3b5d5dd1-c13a-42c2-afc1-500979c0765e" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/53ed514d-46a1-4013-830b-25e0eb240705" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/3fdff7ac-2210-4535-a543-8b4f4493d9d4" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/3d67b029-8528-491a-8791-b583badd7424" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/823af94a-9a58-4425-a1e0-9cabf4192928" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/67eb777d-95db-48e5-b5fb-98666e3df781" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/f4ae02e7-6863-4316-9457-4d98bd47568a" width="200" height="400" />
+
 
 
 Pain points:

@@ -43,7 +43,13 @@ We have run the survey of 8 questions and 51 people has responded it.
 <img src="https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/3fdff7ac-2210-4535-a543-8b4f4493d9d4" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/3d67b029-8528-491a-8791-b583badd7424" width="200" height="100" />
+
+In this page the user can customize his order, and its gives the user the ability to have a message card if it is a gift.
+
 <img src="https://github.com/user-attachments/assets/823af94a-9a58-4425-a1e0-9cabf4192928" width="200" height="100" />
+
+In these pages we helped the user to follow the steps, the user can change the address, and we provided online and offline payment methods, and we give him order summary to make sure of every thing then placing the order, and in the end we show that the order process ended correctly, we give him a link to track his order, and we give him the option of rating our app.
+
 <img src="https://github.com/user-attachments/assets/67eb777d-95db-48e5-b5fb-98666e3df781" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/f4ae02e7-6863-4316-9457-4d98bd47568a" width="200" height="100" />
 

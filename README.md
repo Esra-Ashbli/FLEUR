@@ -125,4 +125,4 @@ In these pages we helped the user to follow the steps, the user can change the a
 <img src="https://github.com/user-attachments/assets/1dd37d25-3ada-43c9-80b8-7e95b82a4a4d" width="200" />
 
 ### Testing (usability testing)
-After working on app screens, we give it to users to see it. We asked them if they understand the work of the application easily. And if this is all a user wants & needs or do we need to make some changes to fulfill our users expectations and make this application more efficient.
+After working on app screens, we give it to users to see it. We asked them if they understand the work of the application easily, and if this is all a user wants & needs or do we need to make some changes to fulfill our users expectations and make this application more efficient.

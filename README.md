@@ -31,7 +31,7 @@ Survey questions:
 7. How often do you struggle to get flower of your choice?
 8. One thing you do not like about local flower market?
 Responses:
-![image](https://github.com/user-attachments/assets/3b5d5dd1-c13a-42c2-afc1-500979c0765e | width=25)
+<img src="https://github.com/user-attachments/assets/3b5d5dd1-c13a-42c2-afc1-500979c0765e" width="50" height="25" />
 ![image](https://github.com/user-attachments/assets/53ed514d-46a1-4013-830b-25e0eb240705)
 ![image](https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430)
 ![image](https://github.com/user-attachments/assets/3fdff7ac-2210-4535-a543-8b4f4493d9d4)

@@ -14,14 +14,18 @@ This application designed in such a way that the user will get everything at one
 ### Discover
 After choosing the topic we need to know more about how online flower shopping works and what are the challenges people face while buying flower online. 
 By browsing the internet we discovered, challenges, problems faced by the customers while buying flowers whether it is while buying from local market or while using existing flower shopping app. Also, what exact things users wants to solve this real time problems.
+
 Challenges faced by users:
-• High price
-• Lack of variety
-• Time
+1. High price
+2. Lack of variety
+3. Time
 ### Research
 We will do a survey that help us to know what people exactly go through and think while buying flowers. Which platform they prefer more, and what difficulties they face while making a flower purchase, what stops them from buying flowers online.
+
 We have run the survey of 8 questions and 51 people has responded it.
+
 Survey questions:
+
 1. Your gender?
 2. Your age group?
 3. How often do you buy flowers?

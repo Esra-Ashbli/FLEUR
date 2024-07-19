@@ -43,13 +43,7 @@ We have run the survey of 8 questions and 51 people has responded it.
 <img src="https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/3fdff7ac-2210-4535-a543-8b4f4493d9d4" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/3d67b029-8528-491a-8791-b583badd7424" width="200" height="100" />
-
-In this page the user can customize his order, and its gives the user the ability to have a message card if it is a gift.
-
 <img src="https://github.com/user-attachments/assets/823af94a-9a58-4425-a1e0-9cabf4192928" width="200" height="100" />
-
-In these pages we helped the user to follow the steps, the user can change the address, and we provided online and offline payment methods, and we give him order summary to make sure of every thing then placing the order, and in the end we show that the order process ended correctly, we give him a link to track his order, and we give him the option of rating our app.
-
 <img src="https://github.com/user-attachments/assets/67eb777d-95db-48e5-b5fb-98666e3df781" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/f4ae02e7-6863-4316-9457-4d98bd47568a" width="200" height="100" />
 
@@ -116,7 +110,13 @@ After completion of everything, here are the screens.
 <img src="https://github.com/user-attachments/assets/f091f591-4169-4784-974c-e6e259ab9ce2" width="200" />
 <img src="https://github.com/user-attachments/assets/f6b5c13c-a831-42aa-9d3f-28bc7a87890e" width="200" />
 <img src="https://github.com/user-attachments/assets/97621e26-e9f6-4985-a5ce-7a46884a6bbc" width="200" />
+
+In this page the user can customize his order, and its gives the user the ability to have a message card if it is a gift.
+
 <img src="https://github.com/user-attachments/assets/32f5d532-666b-4021-a2dc-4b3c46b256fe" width="200" />
+
+In these pages we helped the user to follow the steps, the user can change the address, and we provided online and offline payment methods, and we give him order summary to make sure of every thing then placing the order, and in the end we show that the order process ended correctly, we give him a link to track his order, and we give him the option of rating our app.
+
 <img src="https://github.com/user-attachments/assets/9b65ed05-78e5-4050-a473-d905aa8830f3" width="200" />
 <img src="https://github.com/user-attachments/assets/1dd37d25-3ada-43c9-80b8-7e95b82a4a4d" width="200" />
 

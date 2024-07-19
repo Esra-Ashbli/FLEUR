@@ -16,6 +16,13 @@ After choosing the topic we need to know more about how online flower shopping w
 By browsing the internet we discovered, challenges, problems faced by the customers while buying flowers whether it is while buying from local market or while using existing flower shopping app. Also, what exact things users wants to solve this real time problems.
 
 Challenges faced by users:
+<--
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
+--!>
 1. High price
 2. Lack of variety
 3. Time

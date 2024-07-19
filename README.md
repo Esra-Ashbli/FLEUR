@@ -87,6 +87,7 @@ We have analysed other online flower shopping app. Studied customers reviews and
 7. Payment method online/offline
 
 **User flow**
+
 The flow path in order to complete the order or task.
 
 ![Screenshot_20221027_121712](https://github.com/user-attachments/assets/e9a11673-a389-4858-9cde-0c8454e0af2d)

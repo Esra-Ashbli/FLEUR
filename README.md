@@ -15,7 +15,7 @@ This application designed in such a way that the user will get everything at one
 After choosing the topic we need to know more about how online flower shopping works and what are the challenges people face while buying flower online. 
 By browsing the internet we discovered, challenges, problems faced by the customers while buying flowers whether it is while buying from local market or while using existing flower shopping app. Also, what exact things users wants to solve this real time problems.
 
-Challenges faced by users:
+**Challenges faced by users:**
 
 * High price
 * Lack of variety
@@ -25,7 +25,7 @@ We will do a survey that help us to know what people exactly go through and thin
 
 We have run the survey of 8 questions and 51 people has responded it.
 
-Survey questions:
+**Survey questions:**
 
 1. Your gender?
 2. Your age group?
@@ -35,7 +35,9 @@ Survey questions:
 6. From where do you buy flowers?
 7. How often do you struggle to get flower of your choice?
 8. One thing you do not like about local flower market?
-Responses:
+
+
+**Responses:**
 <img src="https://github.com/user-attachments/assets/3b5d5dd1-c13a-42c2-afc1-500979c0765e" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/53ed514d-46a1-4013-830b-25e0eb240705" width="200" height="100" />
 <img src="https://github.com/user-attachments/assets/92515a00-721f-4677-b1c6-9a7583dc1430" width="200" height="100" />
@@ -47,7 +49,8 @@ Responses:
 
 
 
-Pain points:
+
+**Pain points:**
 1. Time: working people are too busy to go about local flower store or market looking for the best flower to buy.
 2. Variety: users want to have variety of flowers to choose from for different occasions, but sometime gets disappointed.
 3. Delivery: sometimes on time delivery option is not available.
@@ -71,7 +74,7 @@ After knowing the user journey, we want to make it easier and we want to get the
 
 We have analysed other online flower shopping app. Studied customers reviews and expectation. Checked what other apps have and what they don’t. and got some good points in them. So we are going to use them in our app and adding some extra features and options.
 
-These features are:
+**These features are:**
 1. Rating
 2. Review
 3. Customaization availability
@@ -79,5 +82,12 @@ These features are:
 5. Product quality
 6. Flexible delivery
 7. Payment method online/offline
+
+**User flow**
+The flow path in order to complete the order or task.
+
+![Screenshot_20221027_121712](https://github.com/user-attachments/assets/e9a11673-a389-4858-9cde-0c8454e0af2d)
+
+
 ### Design
 ### Testing (usability testing)

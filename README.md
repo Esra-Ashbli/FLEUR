@@ -11,7 +11,7 @@ The problem can be formed in the user need of getting quality of flower that too
 This application designed in such a way that the user will get everything at one place with different varieties and guaranteed quality. Also customization and timely delivery according to user choice and need. Users will get everything delivered at their doorstep at the time they choose.
 
 ## Design process
-![image](https://github.com/user-attachments/assets/39176b6a-b774-4366-bd45-633f03d1b258)
+<img src="https://github.com/user-attachments/assets/39176b6a-b774-4366-bd45-633f03d1b258" width="500" />
 ### Discover
 After choosing the topic we need to know more about how online flower shopping works and what are the challenges people face while buying flower online. 
 By browsing the internet we discovered, challenges, problems faced by the customers while buying flowers whether it is while buying from local market or while using existing flower shopping app. Also, what exact things users wants to solve this real time problems.

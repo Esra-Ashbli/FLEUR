@@ -11,13 +11,6 @@ This application designed in such a way that the user will get everything at one
 
 ## Design process
 ![image](https://github.com/user-attachments/assets/39176b6a-b774-4366-bd45-633f03d1b258)
-
-1. Discover: Know more about the topic, Challenges people face.
-2. Research: Survey, Pain points.
-3. Define & Ideate: Analysis data, User flow
-4. Design
-5. Testing: Usability testing, Evaluation
-
 ### Discover
 After choosing the topic we need to know more about how online flower shopping works and what are the challenges people face while buying flower online. 
 By browsing the internet we discovered, challenges, problems faced by the customers while buying flowers whether it is while buying from local market or while using existing flower shopping app. Also, what exact things users wants to solve this real time problems.
@@ -38,6 +31,8 @@ Survey questions:
 7. How often do you struggle to get flower of your choice?
 8. One thing you do not like about local flower market?
 Responses:
+![image](https://github.com/user-attachments/assets/dd5da6d4-0c2d-4fdd-ab8d-756d59641f69)
+
 Pain points:
 1. Time: working people are too busy to go about local flower store or market looking for the best flower to buy.
 2. Variety: users want to have variety of flowers to choose from for different occasions, but sometime gets disappointed.

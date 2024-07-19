@@ -89,5 +89,12 @@ The flow path in order to complete the order or task.
 ![Screenshot_20221027_121712](https://github.com/user-attachments/assets/e9a11673-a389-4858-9cde-0c8454e0af2d)
 
 
+**Style guide**
+* Colors
+![Screenshot_20221028_125913](https://github.com/user-attachments/assets/2fb1eb21-f072-463b-aa01-7c95212cf30e)
+
+* Typography
+  - Font: Tinos, Open sans
+  - Style : Regular, Bold
 ### Design
 ### Testing (usability testing)

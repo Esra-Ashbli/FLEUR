@@ -117,7 +117,7 @@ In this page the user can customize his order, and its gives the user the abilit
 
 In these pages we helped the user to follow the steps, the user can change the address, and we provided online and offline payment methods, and we give him order summary to make sure of every thing then placing the order, and in the end we show that the order process ended correctly, we give him a link to track his order, and we give him the option of rating our app.
 
-<img src="https://github.com/user-attachments/assets/9b65ed05-78e5-4050-a473-d905aa8830f3" width="250" />
+<img src="https://github.com/user-attachments/assets/9b65ed05-78e5-4050-a473-d905aa8830f3" width="230" />
 <img src="https://github.com/user-attachments/assets/1dd37d25-3ada-43c9-80b8-7e95b82a4a4d" width="200" />
 
 ### Testing (usability testing)

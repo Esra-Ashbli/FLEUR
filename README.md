@@ -44,4 +44,4 @@ Order process:
 
 
 ## Built With
-[![uizard](https://app.uizard.io/static/media/primary-light.49dac9c9728cee2f605955da6dbf6010.svg)](https://uizard.io)
+<img src="https://app.uizard.io/static/media/primary-light.49dac9c9728cee2f605955da6dbf6010.svg" width="100" />

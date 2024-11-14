@@ -6,6 +6,9 @@ The FLEUR is a mobile application to choose and to buy flowers for different typ
 
 ## Screens
 
+<img src="https://github.com/Esra-Ashbli/FLEUR/blob/main/1.png " width="500" />
+<img src="https://github.com/Esra-Ashbli/FLEUR/blob/main/2.png " width="500" />
+<img src="https://github.com/Esra-Ashbli/FLEUR/blob/main/3.png " width="500" />
 
 
 
